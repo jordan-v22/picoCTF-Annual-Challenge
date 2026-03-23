@@ -74,9 +74,10 @@ This series demonstrated how small misconfigurations can lead to full system exp
 ---
 
 ## Proof of Participation
-Screenshots included in this repository:
+Files included in this repository:
 - Scoreboard (rank and score)
 - CTF completion tracker
+- List of compelted challenges, and their flags
 
 ---
 
